@@ -17,8 +17,8 @@ Este curso está orientado a que la persona estudiante comprenda que el desarrol
 
 4. **Navega al directorio deseado**: Usa `cd` para moverte al directorio donde quieres clonar el repositorio.
 
-5. **Clona el repositorio**: Escribe `git clone [URL]` (reemplaza `[URL]` con la URL que copiaste) y presiona Enter.
+5. **Clona el repositorio**: Escribe `git clone https://github.com/KrispyRaven/ie417.git` (reemplaza `[URL]` con la URL que copiaste) y presiona Enter.
 
-6. **Accede al directorio del repositorio**: Usa `cd [nombre-del-repositorio]` para entrar en la carpeta del repositorio clonado.
+6. **Accede al directorio del repositorio**: Usa `cd ie417` para entrar en la carpeta del repositorio clonado.
 
 ¡Listo! Has copiado el repositorio de GitHub a tu máquina local.
