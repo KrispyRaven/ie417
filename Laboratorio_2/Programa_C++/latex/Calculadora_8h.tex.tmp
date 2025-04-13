@@ -1,0 +1,19 @@
+\doxysection{Calculadora.\+h File Reference}
+\hypertarget{Calculadora_8h}{}\label{Calculadora_8h}\index{Calculadora.h@{Calculadora.h}}
+
+
+Definición de la clase \doxylink{classCalculadora}{Calculadora}.  
+
+
+This graph shows which files directly or indirectly include this file\+:
+% FIG 0
+\doxysubsubsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+class \mbox{\hyperlink{classCalculadora}{Calculadora}}
+\begin{DoxyCompactList}\small\item\em Clase que implementa operaciones aritméticas básicas. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Definición de la clase \doxylink{classCalculadora}{Calculadora}. 
+
