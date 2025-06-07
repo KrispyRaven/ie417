@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="Z:\Universidad\Repos\ie417\Laboratorio_8\Functionmal testing\build\CMakeFiles\d649c3f1294a7206cd56b895a141d9b1\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0A1F8243-94DA-383B-A763-A13E983002FC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

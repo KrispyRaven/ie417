@@ -1,0 +1,4 @@
+AuthenticationTest.LoginSuccess 1 0.0154045
+AuthenticationTest.LoginFai1ure 1 0.0148356
+AuthenticationTest.RegisterUser 1 0.0137707
+---

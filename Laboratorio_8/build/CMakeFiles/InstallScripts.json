@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"Z:/Universidad/Repos/ie417/Laboratorio_8/build/cmake_install.cmake",
+		"Z:/Universidad/Repos/ie417/Laboratorio_8/build/_deps/googletest-build/cmake_install.cmake",
+		"Z:/Universidad/Repos/ie417/Laboratorio_8/build/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"Z:/Universidad/Repos/ie417/Laboratorio_8/build/_deps/googletest-build/googletest/cmake_install.cmake",
+		"Z:/Universidad/Repos/ie417/Laboratorio_8/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

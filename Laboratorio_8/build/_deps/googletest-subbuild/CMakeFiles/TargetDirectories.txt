@@ -1,0 +1,3 @@
+Z:/Universidad/Repos/ie417/Laboratorio_8/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+Z:/Universidad/Repos/ie417/Laboratorio_8/build/_deps/googletest-subbuild/CMakeFiles/ALL_BUILD.dir
+Z:/Universidad/Repos/ie417/Laboratorio_8/build/_deps/googletest-subbuild/CMakeFiles/ZERO_CHECK.dir

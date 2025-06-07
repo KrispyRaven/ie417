@@ -1,0 +1,5 @@
+add_test([=[CalculatorTest.AddTest]=]  Z:/Universidad/Repos/ie417/Laboratorio_8/build/tests/Debug/test_calculator.exe [==[--gtest_filter=CalculatorTest.AddTest]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[CalculatorTest.AddTest]=]  PROPERTIES WORKING_DIRECTORY Z:/Universidad/Repos/ie417/Laboratorio_8/build/tests SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[CalculatorTest.SubtractTest]=]  Z:/Universidad/Repos/ie417/Laboratorio_8/build/tests/Debug/test_calculator.exe [==[--gtest_filter=CalculatorTest.SubtractTest]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[CalculatorTest.SubtractTest]=]  PROPERTIES WORKING_DIRECTORY Z:/Universidad/Repos/ie417/Laboratorio_8/build/tests SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set(  test_calculator_TESTS CalculatorTest.AddTest CalculatorTest.SubtractTest)

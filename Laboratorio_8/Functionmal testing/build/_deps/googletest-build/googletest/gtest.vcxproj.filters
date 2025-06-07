@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Z:\Universidad\Repos\ie417\Laboratorio_8\Functionmal testing\build\_deps\googletest-src\googletest\src\gtest-all.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="Z:\Universidad\Repos\ie417\Laboratorio_8\Functionmal testing\build\_deps\googletest-src\googletest\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1CDF17D9-B49A-3269-B109-0A0219643776}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

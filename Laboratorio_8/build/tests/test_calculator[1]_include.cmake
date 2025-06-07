@@ -1,0 +1,5 @@
+if(EXISTS "Z:/Universidad/Repos/ie417/Laboratorio_8/build/tests/test_calculator[1]_tests.cmake")
+  include("Z:/Universidad/Repos/ie417/Laboratorio_8/build/tests/test_calculator[1]_tests.cmake")
+else()
+  add_test(test_calculator_NOT_BUILT test_calculator_NOT_BUILT)
+endif()

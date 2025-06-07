@@ -1,0 +1,55 @@
+Start testing: May 31 23:07 Hora estándar, América Central
+----------------------------------------------------------
+1/2 Testing: CalculatorTest.AddTest
+1/2 Test: CalculatorTest.AddTest
+Command: "Z:/Universidad/Repos/ie417/Laboratorio_8/build/tests/Debug/test_calculator.exe" "--gtest_filter=CalculatorTest.AddTest" "--gtest_also_run_disabled_tests"
+Directory: Z:/Universidad/Repos/ie417/Laboratorio_8/build/tests
+"CalculatorTest.AddTest" start time: May 31 23:07 Hora estándar, América Central
+Output:
+----------------------------------------------------------
+Note: Google Test filter = CalculatorTest.AddTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CalculatorTest
+[ RUN      ] CalculatorTest.AddTest
+[       OK ] CalculatorTest.AddTest (0 ms)
+[----------] 1 test from CalculatorTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CalculatorTest.AddTest" end time: May 31 23:07 Hora estándar, América Central
+"CalculatorTest.AddTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: CalculatorTest.SubtractTest
+2/2 Test: CalculatorTest.SubtractTest
+Command: "Z:/Universidad/Repos/ie417/Laboratorio_8/build/tests/Debug/test_calculator.exe" "--gtest_filter=CalculatorTest.SubtractTest" "--gtest_also_run_disabled_tests"
+Directory: Z:/Universidad/Repos/ie417/Laboratorio_8/build/tests
+"CalculatorTest.SubtractTest" start time: May 31 23:07 Hora estándar, América Central
+Output:
+----------------------------------------------------------
+Note: Google Test filter = CalculatorTest.SubtractTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CalculatorTest
+[ RUN      ] CalculatorTest.SubtractTest
+[       OK ] CalculatorTest.SubtractTest (0 ms)
+[----------] 1 test from CalculatorTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CalculatorTest.SubtractTest" end time: May 31 23:07 Hora estándar, América Central
+"CalculatorTest.SubtractTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 31 23:07 Hora estándar, América Central

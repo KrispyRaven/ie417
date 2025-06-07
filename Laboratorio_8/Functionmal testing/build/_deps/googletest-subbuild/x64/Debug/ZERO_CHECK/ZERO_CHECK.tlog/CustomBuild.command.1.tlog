@@ -1,0 +1,10 @@
+^Z:\UNIVERSIDAD\REPOS\IE417\LABORATORIO_8\FUNCTIONMAL TESTING\BUILD\_DEPS\GOOGLETEST-SUBBUILD\CMAKEFILES\8B6F8A93557D50723D3DA57A823F5501\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SZ:/Universidad/Repos/ie417/Laboratorio_8/Functionmal testing/build/_deps/googletest-subbuild" "-BZ:/Universidad/Repos/ie417/Laboratorio_8/Functionmal testing/build/_deps/googletest-subbuild" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "Z:/Universidad/Repos/ie417/Laboratorio_8/Functionmal testing/build/_deps/googletest-subbuild/googletest-populate.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

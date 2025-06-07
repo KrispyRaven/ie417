@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="Z:\Universidad\Repos\ie417\Laboratorio_8\Functionmal testing\build\_deps\googletest-subbuild\CMakeFiles\76bd2eb9603cffaee98ce522dca5b6e3\googletest-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Z:\Universidad\Repos\ie417\Laboratorio_8\Functionmal testing\build\_deps\googletest-subbuild\CMakeFiles\76bd2eb9603cffaee98ce522dca5b6e3\googletest-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Z:\Universidad\Repos\ie417\Laboratorio_8\Functionmal testing\build\_deps\googletest-subbuild\CMakeFiles\76bd2eb9603cffaee98ce522dca5b6e3\googletest-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Z:\Universidad\Repos\ie417\Laboratorio_8\Functionmal testing\build\_deps\googletest-subbuild\CMakeFiles\76bd2eb9603cffaee98ce522dca5b6e3\googletest-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Z:\Universidad\Repos\ie417\Laboratorio_8\Functionmal testing\build\_deps\googletest-subbuild\CMakeFiles\76bd2eb9603cffaee98ce522dca5b6e3\googletest-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Z:\Universidad\Repos\ie417\Laboratorio_8\Functionmal testing\build\_deps\googletest-subbuild\CMakeFiles\76bd2eb9603cffaee98ce522dca5b6e3\googletest-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Z:\Universidad\Repos\ie417\Laboratorio_8\Functionmal testing\build\_deps\googletest-subbuild\CMakeFiles\76bd2eb9603cffaee98ce522dca5b6e3\googletest-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Z:\Universidad\Repos\ie417\Laboratorio_8\Functionmal testing\build\_deps\googletest-subbuild\CMakeFiles\76bd2eb9603cffaee98ce522dca5b6e3\googletest-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Z:\Universidad\Repos\ie417\Laboratorio_8\Functionmal testing\build\_deps\googletest-subbuild\CMakeFiles\ea4078fb0bd8c6bb23c4c59e873b3e17\googletest-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Z:\Universidad\Repos\ie417\Laboratorio_8\Functionmal testing\build\_deps\googletest-subbuild\CMakeFiles\8b6f8a93557d50723d3da57a823f5501\googletest-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Z:\Universidad\Repos\ie417\Laboratorio_8\Functionmal testing\build\_deps\googletest-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Z:\Universidad\Repos\ie417\Laboratorio_8\Functionmal testing\build\_deps\googletest-subbuild\CMakeFiles\googletest-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A13239F5-CE54-3F22-956B-3B40D5E92BA1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^Z:\UNIVERSIDAD\REPOS\IE417\LABORATORIO_8\BUILD\CMAKEFILES\6CBE2172A8872734377633ED6FC73A00\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SZ:/Universidad/Repos/ie417/Laboratorio_8 -BZ:/Universidad/Repos/ie417/Laboratorio_8/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file Z:/Universidad/Repos/ie417/Laboratorio_8/build/Laboratorio_8.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

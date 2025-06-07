@@ -1,0 +1,5 @@
+if(EXISTS "Z:/Universidad/Repos/ie417/Laboratorio_8/Functionmal testing/build/tests/test_auth[1]_tests.cmake")
+  include("Z:/Universidad/Repos/ie417/Laboratorio_8/Functionmal testing/build/tests/test_auth[1]_tests.cmake")
+else()
+  add_test(test_auth_NOT_BUILT test_auth_NOT_BUILT)
+endif()

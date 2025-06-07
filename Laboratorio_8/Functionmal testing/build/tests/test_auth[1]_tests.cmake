@@ -1,0 +1,7 @@
+add_test([=[AuthenticationTest.LoginSuccess]=]  [==[Z:/Universidad/Repos/ie417/Laboratorio_8/Functionmal testing/build/tests/Debug/test_auth.exe]==] [==[--gtest_filter=AuthenticationTest.LoginSuccess]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[AuthenticationTest.LoginSuccess]=]  PROPERTIES WORKING_DIRECTORY [==[Z:/Universidad/Repos/ie417/Laboratorio_8/Functionmal testing/build/tests]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[AuthenticationTest.LoginFai1ure]=]  [==[Z:/Universidad/Repos/ie417/Laboratorio_8/Functionmal testing/build/tests/Debug/test_auth.exe]==] [==[--gtest_filter=AuthenticationTest.LoginFai1ure]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[AuthenticationTest.LoginFai1ure]=]  PROPERTIES WORKING_DIRECTORY [==[Z:/Universidad/Repos/ie417/Laboratorio_8/Functionmal testing/build/tests]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[AuthenticationTest.RegisterUser]=]  [==[Z:/Universidad/Repos/ie417/Laboratorio_8/Functionmal testing/build/tests/Debug/test_auth.exe]==] [==[--gtest_filter=AuthenticationTest.RegisterUser]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[AuthenticationTest.RegisterUser]=]  PROPERTIES WORKING_DIRECTORY [==[Z:/Universidad/Repos/ie417/Laboratorio_8/Functionmal testing/build/tests]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set(  test_auth_TESTS AuthenticationTest.LoginSuccess AuthenticationTest.LoginFai1ure AuthenticationTest.RegisterUser)

@@ -1,0 +1,81 @@
+Start testing: Jun 01 13:08 Hora estándar, América Central
+----------------------------------------------------------
+1/3 Testing: AuthenticationTest.LoginSuccess
+1/3 Test: AuthenticationTest.LoginSuccess
+Command: "Z:/Universidad/Repos/ie417/Laboratorio_8/Functionmal testing/build/tests/Debug/test_auth.exe" "--gtest_filter=AuthenticationTest.LoginSuccess" "--gtest_also_run_disabled_tests"
+Directory: Z:/Universidad/Repos/ie417/Laboratorio_8/Functionmal testing/build/tests
+"AuthenticationTest.LoginSuccess" start time: Jun 01 13:08 Hora estándar, América Central
+Output:
+----------------------------------------------------------
+Note: Google Test filter = AuthenticationTest.LoginSuccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AuthenticationTest
+[ RUN      ] AuthenticationTest.LoginSuccess
+[       OK ] AuthenticationTest.LoginSuccess (0 ms)
+[----------] 1 test from AuthenticationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"AuthenticationTest.LoginSuccess" end time: Jun 01 13:08 Hora estándar, América Central
+"AuthenticationTest.LoginSuccess" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: AuthenticationTest.LoginFai1ure
+2/3 Test: AuthenticationTest.LoginFai1ure
+Command: "Z:/Universidad/Repos/ie417/Laboratorio_8/Functionmal testing/build/tests/Debug/test_auth.exe" "--gtest_filter=AuthenticationTest.LoginFai1ure" "--gtest_also_run_disabled_tests"
+Directory: Z:/Universidad/Repos/ie417/Laboratorio_8/Functionmal testing/build/tests
+"AuthenticationTest.LoginFai1ure" start time: Jun 01 13:08 Hora estándar, América Central
+Output:
+----------------------------------------------------------
+Note: Google Test filter = AuthenticationTest.LoginFai1ure
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AuthenticationTest
+[ RUN      ] AuthenticationTest.LoginFai1ure
+[       OK ] AuthenticationTest.LoginFai1ure (0 ms)
+[----------] 1 test from AuthenticationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AuthenticationTest.LoginFai1ure" end time: Jun 01 13:08 Hora estándar, América Central
+"AuthenticationTest.LoginFai1ure" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: AuthenticationTest.RegisterUser
+3/3 Test: AuthenticationTest.RegisterUser
+Command: "Z:/Universidad/Repos/ie417/Laboratorio_8/Functionmal testing/build/tests/Debug/test_auth.exe" "--gtest_filter=AuthenticationTest.RegisterUser" "--gtest_also_run_disabled_tests"
+Directory: Z:/Universidad/Repos/ie417/Laboratorio_8/Functionmal testing/build/tests
+"AuthenticationTest.RegisterUser" start time: Jun 01 13:08 Hora estándar, América Central
+Output:
+----------------------------------------------------------
+Note: Google Test filter = AuthenticationTest.RegisterUser
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AuthenticationTest
+[ RUN      ] AuthenticationTest.RegisterUser
+[       OK ] AuthenticationTest.RegisterUser (0 ms)
+[----------] 1 test from AuthenticationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AuthenticationTest.RegisterUser" end time: Jun 01 13:08 Hora estándar, América Central
+"AuthenticationTest.RegisterUser" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 01 13:08 Hora estándar, América Central
